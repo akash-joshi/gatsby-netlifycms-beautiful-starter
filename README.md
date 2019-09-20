@@ -1,0 +1,1 @@
+# gatsby-netlifycms-beautiful-starter
